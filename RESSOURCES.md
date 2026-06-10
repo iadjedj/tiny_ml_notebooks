@@ -117,6 +117,7 @@ Données MPU6050 (accéléromètre / gyroscope) sur Kaggle :
 - [XIAO ESP32-S3 Sense (arXiv, avril 2026)](https://arxiv.org/abs/2604.22834) — Article de recherche récent.
 - [emlearn appliqué au bétail (Virginia Tech)](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/f04738cb-a715-44a7-bc60-57ffdbdbcb00/content) — Article de recherche s'appuyant sur emlearn.
 - [Exemple applicatif (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12031393/#sec1-sensors-25-02496) — Article illustrant un cas d'usage.
+- [Github par le créateur d'emlearn](https://github.com/jonnor/embeddedml/tree/master) - Notes sur le TinyML (listes de projets,  d'outils, de cours, etc.)
 - Reviews du domaine (articles) :
   - Alharthi, Shahad, Muhammad Rashid, et Malak Aljabri. 2026. « [TinyML in Industrial IoT: A Systematic Review of Applications, System Components, and Methodologies](https://doi.org/10.3390/s26082550) ». Sensors 26 (8): 2550.
   - Capogrosso, Luigi, Federico Cunico, Dong Seon Cheng, Franco Fummi, et Marco Cristani. 2023. « [A Machine Learning-Oriented Survey on Tiny Machine Learning](https://doi.org/10.48550/arXiv.2309.11932) ». Version 2. Prépublication, arXiv. https://doi.org/10.48550/ARXIV.2309.11932.
