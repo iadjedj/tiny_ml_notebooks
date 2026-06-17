@@ -27,7 +27,7 @@ Ressources rassemblées pour la formation : visualisation et fondamentaux du mac
 - [Introduction à scikit-learn (vidéo)](https://www.youtube.com/watch?v=-IvNzmrcyUM) — Prise en main de scikit-learn pour le ML classique.
 - [Validation croisée k-fold avec Keras (Kaggle)](https://www.kaggle.com/code/stefanie04736/simple-keras-model-with-k-fold-cross-validation) — Exemple simple de validation croisée k-fold sur un modèle Keras.
 - [Cycle de vie d'une figure matplotlib](https://matplotlib.org/stable/tutorials/lifecycle.html#sphx-glr-tutorials-lifecycle-py) — Explication avancée sur le lifecycle d'une figure matplotlib
-- [Les forêts aléatoires expliquées (vidéo)](https://www.youtube.com/watch?v=v6VJ2RO66Ag) — Fonctionnement des random forests, avec la notion de coefficient de Gini.
+- [Les forêts aléatoires expliquées (vidéo)](https://www.youtube.com/watch?v=v6VJ2RO66Ag) — Fonctionnement des random forests, avec la notion de l'impureté de Gini.
 - [Chaine YouTube Machine Learnia](https://www.youtube.com/@MachineLearnia/videos) — Une mine d'or si vous souhaitez comprendre **tout** sur les maths d'un réseau de neurones.
 - [Vidéo de Machine Learnia sur cross-validation, KFold, etc.](https://www.youtube.com/watch?v=w_bLGK4Pteo)
 
@@ -97,6 +97,7 @@ emlearn permet de créer et d'entraîner un modèle (relativement simple) en Pyt
 - [Reconnaissance de gestes — TF Lite + Arduino Nano 33 (UAL)](https://lab.arts.ac.uk/books/physical-computing/page/machine-learning-with-physical-computing-tensorflow-lite-arduino-nano-33) — Tutoriel pas à pas, avec son [notebook Colab](https://colab.research.google.com/github/arduino/ArduinoTensorFlowLiteTutorials/blob/master/GestureToEmoji/arduino_tinyml_workshop.ipynb).
   > Le lien d'origine vers le tutoriel du notebook est cassé.
 - [Reconnaissance vocale — XIAO ESP32-S3 + Edge Impulse (MakerGuides)](https://www.makerguides.com/voice-control-with-xiao-esp32-s3-sense-and-edge-impulse/) — Tutoriel de keyword spotting, à jour et très complet.
+- [Youtube: Infinite Code](https://www.youtube.com/watch?v=oMc9StPVzOU) - Les erreurs de débutants à éviter en ML
 
 ## Jeux de données
 
@@ -114,9 +115,9 @@ Données MPU6050 (accéléromètre / gyroscope) sur Kaggle :
 
 ## Publications et recherche
 
-- [XIAO ESP32-S3 Sense (arXiv, avril 2026)](https://arxiv.org/abs/2604.22834) — Article de recherche récent.
+- [XIAO ESP32-S3 Sense (arXiv, avril 2026)](https://arxiv.org/abs/2604.22834) — Démo 100% dans le navigateur pour la récolte de données/entrainement/inférence d'un modèle de CV sur ESP32S3 (accessible [ici](https://webmcu-ai.github.io/webmcu-vision-web/index.html))
 - [emlearn appliqué au bétail (Virginia Tech)](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/f04738cb-a715-44a7-bc60-57ffdbdbcb00/content) — Article de recherche s'appuyant sur emlearn.
-- [Exemple applicatif (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12031393/#sec1-sensors-25-02496) — Article illustrant un cas d'usage.
+- [Exemple ECG (PubMad)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12031393/) — Article cité en formation sur l'utilisation d'un ECG + Arduino Nano
 - [Github par le créateur d'emlearn](https://github.com/jonnor/embeddedml/tree/master) - Notes sur le TinyML (listes de projets,  d'outils, de cours, etc.)
 - Reviews du domaine (articles) :
   - Alharthi, Shahad, Muhammad Rashid, et Malak Aljabri. 2026. « [TinyML in Industrial IoT: A Systematic Review of Applications, System Components, and Methodologies](https://doi.org/10.3390/s26082550) ». Sensors 26 (8): 2550.
