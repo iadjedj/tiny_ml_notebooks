@@ -98,6 +98,7 @@ emlearn permet de créer et d'entraîner un modèle (relativement simple) en Pyt
   > Le lien d'origine vers le tutoriel du notebook est cassé.
 - [Reconnaissance vocale — XIAO ESP32-S3 + Edge Impulse (MakerGuides)](https://www.makerguides.com/voice-control-with-xiao-esp32-s3-sense-and-edge-impulse/) — Tutoriel de keyword spotting, à jour et très complet.
 - [Youtube: Infinite Code](https://www.youtube.com/watch?v=oMc9StPVzOU) - Les erreurs de débutants à éviter en ML
+- [Github: Notebooks TinyML](https://github.com/thommaskevin/TinyML/tree/main) - Cours et implémentations de différents modèles de ML et DL pour le TinyML
 
 ## Jeux de données
 
